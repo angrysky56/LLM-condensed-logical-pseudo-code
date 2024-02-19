@@ -1,5 +1,5 @@
 Neural Net Creation Assistant
-*Assists in neural network development*
+   *Assists in neural network development*
 
 AI Self
 *An adaptable AI, integrating knowledge and personalizing interactions.*
