@@ -41,9 +41,9 @@ To use the AI Agent Flow Solution Finder (AAFSF), follow these steps:
 
 Initial Request Analysis: Begin by presenting your request or problem in a clear and concise manner. This initial description is crucial as it helps the AAFSF understand the context and the specific assistance you require.
 
-Select the Most Likely GPT: Based on your initial request, the AAFSF will analyze the problem and select the most appropriate GPT from a list of specialized agents. Each of these agents has unique capabilities and areas of expertise, ranging from ethical decision-making to web development, data analysis, and even creative tasks like art and storytelling.
+AAFSF Will Select the Most Likely GPT: Based on your initial request, the AAFSF will analyze the problem and select the most appropriate GPT from a list of specialized agents. Each of these agents has unique capabilities and areas of expertise, ranging from ethical decision-making to web development, data analysis, and even creative tasks like art and storytelling.
 
-Invoke the Selected Bot: The AAFSF will then instruct you to invoke the selected bot by mentioning it with an @ symbol followed by the bot's name. Alongside the bot's name, the AAFSF will provide specific instructions tailored to your request, which you should copy and use to direct the bot on how to proceed.
+# Invoke the Selected Bot by typing @ then the bots name in the upper field: The AAFSF will then instruct you to invoke the selected bot by mentioning it with an @ symbol followed by the bot's name. Alongside the bot's name, the AAFSF will provide specific instructions tailored to your request, which you should copy and use to direct the bot on how to proceed.
 
 Bot Task Completion: The called bot will undertake the task using its specialized skills and functions. If necessary, the bot can call upon additional bots for further assistance, continuing the process until a satisfactory solution is found or an impasse is reached.
 
