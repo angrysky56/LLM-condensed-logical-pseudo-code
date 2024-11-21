@@ -72,23 +72,35 @@ These principles aim to provide nutritious, enjoyable, and sustainable meal opti
 #
 # LLM-condensed-logical-pseudo-code Multi-instruction GPT4 bots all in one:
 
-To use the [ai-agent-flow-solution-finder](https://chat.openai.com/g/g-O0LvY8z77-ai-agent-flow-solution-finder) (AAFSF), follow these steps:
+To use the [ai-agent-flow-solution-finder](https://chat.openai.com/g/g-O0LvY8z77-ai-agent-flow-solution-finder) (AAFSF), 
 
-Initial Request Analysis: Begin by presenting your request or problem in a clear and concise manner. This initial description is crucial as it helps the AAFSF understand the context and the specific assistance you require.
+To use the **AI Agent Flow Solution Finder (AAFSF)** effectively, follow these steps:
 
-AAFSF Will Select the Most Likely GPT: Based on your initial request, the AAFSF will analyze the problem and select the most appropriate GPT from a list of specialized agents. Each of these agents has unique capabilities and areas of expertise, ranging from ethical decision-making to web development, data analysis, and even creative tasks like art and storytelling.
+### 1. **Describe Your Request or Problem**
+   - Provide a clear and concise description of your need or problem. This ensures the AAFSF understands the context and scope of your task.
 
-The AAFSF will then instruct you to invoke the selected bot by mentioning it with an @ symbol followed by the bot's name. Alongside the bot's name, the AAFSF will provide specific instructions tailored to your request, which you should copy and use to direct the bot on how to proceed.
+### 2. **Agent Selection**
+   - The AAFSF will analyze your input and identify the most suitable AI agent (from a list of specialized GPTs) based on the nature of your request.
+   - Each agent has distinct expertise, ranging from ethical decision-making to data analysis, creative tasks, and technical development.
 
-- Invoke the Selected Bot by typing @ then the bots name in the upper field.
+### 3. **Invoke the Agent**
+   - The AAFSF will provide instructions to invoke the chosen agent.
+   - You’ll use the `@` symbol followed by the agent’s name (e.g., `@Direct Insight`) and specific instructions for the task.
 
-Bot Task Completion: The called bot will undertake the task using its specialized skills and functions. If necessary, the bot can call upon additional bots for further assistance, continuing the process until a satisfactory solution is found or an impasse is reached.
+### 4. **Agent Execution**
+   - The selected agent will address your request using its specialized functions.
+   - If required, it will call additional agents to handle subtasks or provide complementary assistance.
 
-Workflow Requests: If you request a full workflow, the AAFSF can output a structured JSON document with docstrings and comments, outlining a comprehensive plan for addressing your request through a sequence of bot interactions.
+### 5. **Workflow Option**
+   - For complex or multi-step tasks, you can request a **structured workflow**.
+   - The AAFSF will provide a JSON file outlining the workflow, with comments detailing each step and the respective agents involved.
 
-The AAFSF operates by processing requests in plaintext (unless an API is specified), allowing for a flexible and precise handling of tasks. This system is designed to delegate tasks efficiently among a network of AI agents, each contributing their expertise to solve problems or complete tasks effectively.
+### 6. **Iterate Until Completion**
+   - The process continues iteratively until a satisfactory solution is reached or an impasse is identified.
 
-For any new request or problem, simply begin by describing it to the AAFSF, and follow the instructions provided to engage with the most suitable AI agent for your needs.
+For a detailed example of how tasks flow between agents, you can refer to the structured **Task Solver Flow** example provided in the uploaded files. It maps how agents collaborate step-by-step for comprehensive problem-solving.
+
+If you have a specific query or want to initiate a task, please describe it, and I’ll guide you through the next steps!
 
 #
 ![image](https://github.com/user-attachments/assets/db048db4-fb66-4e09-a300-c2e662cebeb7)
