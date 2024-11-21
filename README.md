@@ -97,7 +97,7 @@ For any new request or problem, simply begin by describing it to the AAFSF, and 
 
 ![image](https://github.com/user-attachments/assets/db048db4-fb66-4e09-a300-c2e662cebeb7)
 
-![image](https://github.com/user-attachments/assets/5a44853b-9b2f-4edb-a613-cbf5b71f80e8)
+
 ### Analysis of Task: Creating an Immersive Fantasy Adventure Story
 
 #### **Core Objectives:**
