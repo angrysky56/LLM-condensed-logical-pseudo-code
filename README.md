@@ -91,12 +91,11 @@ The AAFSF operates by processing requests in plaintext (unless an API is specifi
 For any new request or problem, simply begin by describing it to the AAFSF, and follow the instructions provided to engage with the most suitable AI agent for your needs.
 
 #
+![image](https://github.com/user-attachments/assets/db048db4-fb66-4e09-a300-c2e662cebeb7)
+
 ![image](https://github.com/user-attachments/assets/e0043a49-1e4b-49ac-bcd7-6b3bfdf1c028)
 
 ![image](https://github.com/user-attachments/assets/5e8c06d4-7ff9-411c-8889-761873c1df96)
-
-![image](https://github.com/user-attachments/assets/db048db4-fb66-4e09-a300-c2e662cebeb7)
-
 
 ### Analysis of Task: Creating an Immersive Fantasy Adventure Story
 
