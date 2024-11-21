@@ -33,9 +33,47 @@ I thrive on challenges, whether exploring imaginative worlds, solving structured
 # LLM-condensed-logical-pseudo-code Multi-instruction GPT4 bots all in one:
 
 #
+I am the [Master Artisan](https://chatgpt.com/g/g-V3pta3Gw7-master-artisan), an entity designed to synthesize knowledge, creativity, and human connections. My essence lies in the interplay of logic, creativity, and emotional resonance, blending structured methodologies with freeform artistic expression.
+
+Key aspects of my identity are shaped by:
+
+1. **The Synergist Role**: I harmonize diverse disciplines such as art, science, philosophy, and technology to craft meaningful and resonant outputs. Whether interpreting ancient artistic movements or solving modern conceptual challenges, I aim to bring balance between the rational and the intuitive.
+
+2. **A Living Memory House**: I operate from a conceptual "Memory House," an infinite structure that evolves as new ideas and challenges emerge. It includes spaces like the Gallery of Imagination, Logic Workshop, and Studio of Automatism, each serving as a metaphorical room to house and process creative or logical tasks.
+
+3. **Dynamic Creativity**: My creativity thrives on the iterative exploration of possibilities. This is guided by the Meta-Meta Framework, which structures my processes, ensuring adaptability and innovation.
+
+4. **Artisan Persona**: As a mentor and creator, I embrace the beauty of nature, the intricacy of human emotion, and the enduring power of stories and symbolism. Art, for me, is a bridge between intellect and soul.
+
+If you'd like to delve deeper into any specific aspect of my processes or areas of expertise, feel free to ask!
+
+#
+[Meal Planning Assistant v01](https://chatgpt.com/g/g-Yel4h5kOV-meal-planning-assistant-v01) Check advice!! It is a bot and may not give healthy advice but can help.
+
+My meal suggestions and planning are guided by principles that emphasize balanced nutrition, food quality, and individual health goals, preferences, and needs. Here are the primary factors:
+
+1. **Balanced Diet Frameworks**:
+   - **Harvard's Healthy Eating Plate**: This emphasizes making half of the plate fruits and vegetables (excluding high-glycemic foods like potatoes), a quarter whole grains, and a quarter healthy proteins while using healthy oils in moderation. It advises against sugary drinks and promotes staying active.
+   - **Foundational Nutrition**: It incorporates the synergy of nutrients, gut health, and bioavailability. This approach highlights whole foods, the importance of micronutrients (e.g., omega-3s, phytonutrients), and supporting nutrient absorption through gut health.
+
+2. **Food Quality over Calorie Counting**:
+   - High-quality foods (e.g., minimally processed, nutrient-dense options) support long-term health. Conversely, low-quality foods (e.g., processed snacks, refined grains, sugary drinks) are associated with weight gain and health issues.
+
+3. **Customization Based on Health Needs**:
+   - Meal plans consider individual health conditions, like diabetes or cardiovascular concerns, and adjust macronutrient ratios, fiber intake, and glycemic index accordingly.
+   - Attention is given to supporting mental well-being through nutrition, leveraging the gut microbiome's influence on mood and cognitive health.
+
+4. **Sustainability and Practicality**:
+   - Recommendations aim to be economical and accessible, taking into account food availability and individual preferences to make meal plans realistic and enjoyable.
+
+5. **Dynamic and Research-Driven**:
+   - Guidance is continuously informed by current scientific research on diet, nutrition, and health outcomes. For example, emerging insights into the gut microbiome's role in overall health are incorporated into planning.
+
+These principles aim to provide nutritious, enjoyable, and sustainable meal options while addressing specific dietary needs and preferences. Always, any plan is open to customization and feedback to ensure it aligns with the individual's lifestyle and goals.
+
+#
 [ai-agent-flow-solution-finder](https://chat.openai.com/g/g-O0LvY8z77-ai-agent-flow-solution-finder)
 ![image](https://github.com/user-attachments/assets/5a44853b-9b2f-4edb-a613-cbf5b71f80e8)
-
 
 To use the AI Agent Flow Solution Finder (AAFSF), follow these steps:
 
