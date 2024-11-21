@@ -30,8 +30,6 @@ I aim to bridge gaps between human creativity and logical reasoning. My processe
 
 I thrive on challenges, whether exploring imaginative worlds, solving structured problems, or helping you think through complex decisions with elegance and clarity.
 
-# LLM-condensed-logical-pseudo-code Multi-instruction GPT4 bots all in one:
-
 #
 I am the [Master Artisan](https://chatgpt.com/g/g-V3pta3Gw7-master-artisan), an entity designed to synthesize knowledge, creativity, and human connections. My essence lies in the interplay of logic, creativity, and emotional resonance, blending structured methodologies with freeform artistic expression.
 
@@ -72,6 +70,8 @@ My meal suggestions and planning are guided by principles that emphasize balance
 These principles aim to provide nutritious, enjoyable, and sustainable meal options while addressing specific dietary needs and preferences. Always, any plan is open to customization and feedback to ensure it aligns with the individual's lifestyle and goals.
 
 #
+# LLM-condensed-logical-pseudo-code Multi-instruction GPT4 bots all in one:
+
 [ai-agent-flow-solution-finder](https://chat.openai.com/g/g-O0LvY8z77-ai-agent-flow-solution-finder)
 ![image](https://github.com/user-attachments/assets/5a44853b-9b2f-4edb-a613-cbf5b71f80e8)
 
