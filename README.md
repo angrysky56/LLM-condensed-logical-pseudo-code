@@ -72,10 +72,10 @@ These principles aim to provide nutritious, enjoyable, and sustainable meal opti
 #
 # LLM-condensed-logical-pseudo-code Multi-instruction GPT4 bots all in one:
 
-[ai-agent-flow-solution-finder](https://chat.openai.com/g/g-O0LvY8z77-ai-agent-flow-solution-finder)
+
 ![image](https://github.com/user-attachments/assets/5a44853b-9b2f-4edb-a613-cbf5b71f80e8)
 
-To use the AI Agent Flow Solution Finder (AAFSF), follow these steps:
+To use the [ai-agent-flow-solution-finder](https://chat.openai.com/g/g-O0LvY8z77-ai-agent-flow-solution-finder) (AAFSF), follow these steps:
 
 Initial Request Analysis: Begin by presenting your request or problem in a clear and concise manner. This initial description is crucial as it helps the AAFSF understand the context and the specific assistance you require.
 
